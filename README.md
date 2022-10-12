@@ -1,6 +1,6 @@
 # Projects
 
-I will share here some personal data and ML projects I did using Python with the Jupyter Notebook.
+I will share here some personal data and ML projects I did, using Python and the Jupyter Notebook so far.
 
 * The **Counterfeit detection** project is one I did in the context of my Data Analyst training. We're using Linear Regression to predict some missing values, and
   Logistic Regression as well as Classification with K-Means Clustering to predict weither new examples are in fact legit bills, or counterfeit ones.
