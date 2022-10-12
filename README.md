@@ -1,4 +1,4 @@
-# My_projects
+# Projects
 
 I will share here some personal data and ML projects I did using Python with the Jupyter Notebook.
 
