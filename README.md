@@ -1,6 +1,6 @@
 # Projects
 
-I will share here some personal data and ML projects I did, using Python and the Jupyter Notebook so far.
+I will share here some personal data and ML projects I did, so far using Python and the Jupyter Notebook.
 
 * In the **Data Cleaning & Analysis** project, the focus is on cleaning data and descriptive analysis. The dataset is relatively heavy (
 
